@@ -30,8 +30,9 @@ This is a curated list of resources relevant to LiDAR-Visual-Fusion-SLAM. I will
 
 - [ICRA2017] VINS on wheels [paper](https://ieeexplore.ieee.org/abstract/document/7989603)
 
-- [ICRA2017] An visual-inertial-wheel fusion odometry [paper](https://github.com/TouchDeeper/VIW-Fusion/blob/master/Thesis%20-%20TingdaZhuang%20-%20Chinese%20-%20Research%20on%20Multi-sensor%20Fusion%20Localization%20of%20Mobile%20Robot%20Based%20on%20ROS.pdf)[code](https://github.com/TouchDeeper/VIW-Fusion)
+- [Github] An visual-inertial-wheel fusion odometry [paper](https://github.com/TouchDeeper/VIW-Fusion/blob/master/Thesis%20-%20TingdaZhuang%20-%20Chinese%20-%20Research%20on%20Multi-sensor%20Fusion%20Localization%20of%20Mobile%20Robot%20Based%20on%20ROS.pdf)[code](https://github.com/TouchDeeper/VIW-Fusion)
 
 
+- [Github] Visual-Inertial Odometry Coupled with Wheel Encoder and GNSS [paper](https://blog.csdn.net/ewtewtewrt/article/details/117249295)[code](https://github.com/Wallong/VINS-GPS-Wheel)
 
 
