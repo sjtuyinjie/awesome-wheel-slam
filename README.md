@@ -7,7 +7,9 @@ This is a curated list of resources relevant to wheel-based SLAM. I will keep up
 **If your work about wheel-based SLAM is accepted to top conferences or transactions, welcome to propose a issue and remind me of updating your work!**
 
 
-## Papers
+Wheel-based SLAM, often combined with sensors like cameras, IMUs, and LiDAR, offers robust localization and mapping by leveraging the precise motion estimation from wheel odometry, enhancing accuracy and reliability in various robotic applications.
+
+## Projects
 
 
 - **[ICRA2024] Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases** [[**paper**](https://arxiv.org/abs/2402.14308)][[**code**](https://github.com/SJTU-ViSYS/Ground-Fusion)]
@@ -59,3 +61,10 @@ This is a curated list of resources relevant to wheel-based SLAM. I will keep up
 
 
 - [Github] VINS-Fusion based SLAM with tightly-coupled wheel odometry and DNN based front-end [[code](https://github.com/KopanevPavel/runbot_custom_localization)]
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sjtuyinjie/awesome-wheel-slam&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
+
+
+
