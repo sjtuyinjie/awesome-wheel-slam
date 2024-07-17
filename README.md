@@ -3,14 +3,14 @@
 
 ## Introduction
 
-This is a curated list of resources relevant to LiDAR-Visual-Fusion-SLAM. I will keep updating this website from time to time. If this project is helpful for your research, please give me a star and fork, thanks!
-**If your work about LiDAR-Visual-SLAM is accepted to top conferences or transactions, welcome to propose a issue and remind me of updating your work!**
+This is a curated list of resources relevant to wheel-based SLAM. I will keep updating this website from time to time. If this project is helpful for your research, please give me a star and fork, thanks!
+**If your work about wheel-based SLAM is accepted to top conferences or transactions, welcome to propose a issue and remind me of updating your work!**
 
 
 ## Papers
 
 
-- [ICRA2024] **Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases** [paper](https://arxiv.org/abs/2402.14308)[code](https://github.com/SJTU-ViSYS/Ground-Fusion)
+- [ICRA2024] **Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases** [**paper**](https://arxiv.org/abs/2402.14308)[code](https://github.com/SJTU-ViSYS/Ground-Fusion)[**code**](https://github.com/SJTU-ViSYS/Ground-Fusion)
 
 
 - [ICRA2023] PIEKF-VIWO: Visual-inertial-wheel odometry using partial invariant extended Kalman filter [paper](https://arxiv.org/pdf/2303.07668)
