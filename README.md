@@ -58,6 +58,8 @@ Wheel-based SLAM, often combined with sensors like cameras, IMUs, and LiDAR, off
 
 - [Github] Simultaneous localizing and mapping through visual, inertial measurement unit, encoders and maybe other odometers [[code](https://github.com/leavesnight/VIEO_SLAM)]
 
+- [Github] VINS-Fusion for For Vehicle dense mapping and navigation [[code](https://github.com/hu-minghao/VINS-Fusion-Vehicle)]
+
 
 
 - [Github] VINS-Fusion based SLAM with tightly-coupled wheel odometry and DNN based front-end [[code](https://github.com/KopanevPavel/runbot_custom_localization)]
