@@ -19,7 +19,18 @@ This is a curated list of resources relevant to wheel-based SLAM. I will keep up
 - [TIV2022] Structural Lines Aided Monocular Visual-Inertial-Wheel Odometry With Online IMU-Wheel Extrinsic Optimization on S2 Manifold [[paper](https://ieeexplore.ieee.org/abstract/document/10214115)]
 
 
+- [RAL2022] Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU [[paper](https://arxiv.org/abs/2211.03174)][[code](https://github.com/i2Nav-WHU/Wheel-SLAM)]
+
+
+
+
 - [ROBIO2022] Robust optimization-based fusion of GNSS and Visual-Inertial-Wheel Odometry [[paper](https://ieeexplore.ieee.org/abstract/document/10011839)]
+
+- [TITS2022] Wheel-INS2: Multiple {MEMS IMU}-Based Dead Reckoning System With Different Configurations for Wheeled Robots [[paper](https://arxiv.org/abs/2012.10593)][[code](https://github.com/i2Nav-WHU/Wheel-INS)]
+
+
+- [TVT2021] Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System [[paper](https://ieeexplore.ieee.org/document/9524467)][[code](https://github.com/i2Nav-WHU/Wheel-INS)]
+
 
 
 - [Remote Sensing2019] DRE-SLAM: Dynamic RGB-D Encoder SLAM for a Differential-Drive Robot [[paper](https://www.mdpi.com/2072-4292/11/4/380?ref=https://coder.social)[code](https://github.com/ydsf16/dre_slam)]
