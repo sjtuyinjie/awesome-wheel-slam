@@ -44,7 +44,7 @@ Wheel-based SLAM, often combined with sensors like cameras, IMUs, and LiDAR, off
 - [Remote Sensing2019] DRE-SLAM: Dynamic RGB-D Encoder SLAM for a Differential-Drive Robot [[paper](https://www.mdpi.com/2072-4292/11/4/380?ref=https://coder.social)[code](https://github.com/ydsf16/dre_slam)]
 
 
-- [ICRA2017] VINS on wheels [paper](https://ieeexplore.ieee.org/abstract/document/7989603)
+- [ICRA2017] VINS on wheels [[paper](https://ieeexplore.ieee.org/abstract/document/7989603)]
 
 
 - [ACC2017] Gyro-aided camera-odometer online calibration and localization [[paper](https://drive.google.com/file/d/1pOLWp2WfqanO8CFin-Ppwl0FQku0-PJX/view)][[code](https://github.com/image-amazing/Wheel_Encoder_aided_vo)]
