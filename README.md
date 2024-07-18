@@ -20,15 +20,13 @@ This is a curated list of resources relevant to wheel-based SLAM. I will keep up
 - [ICRA2023] PIEKF-VIWO: Visual-inertial-wheel odometry using partial invariant extended Kalman filter [[paper](https://arxiv.org/pdf/2303.07668)]
 
 
-- [IROS2023] LIWO: LiDAR-Inertial-Wheel Odometry [[paper](https://arxiv.org/pdf/2302.14298)][[code](https://github.com/ZikangYuan/liw_oam)]
+- ⭐️[IROS2023] LIWO: LiDAR-Inertial-Wheel Odometry [[paper](https://arxiv.org/pdf/2302.14298)][[code](https://github.com/ZikangYuan/liw_oam)]
 
 
 - [TIV2022] Structural Lines Aided Monocular Visual-Inertial-Wheel Odometry With Online IMU-Wheel Extrinsic Optimization on S2 Manifold [[paper](https://ieeexplore.ieee.org/abstract/document/10214115)]
 
 
 - ⭐️[RAL2022] Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU [[paper](https://arxiv.org/abs/2211.03174)][[code](https://github.com/i2Nav-WHU/Wheel-SLAM)]
-
-
 
 
 - [TITS2022] Wheel-INS2: Multiple {MEMS IMU}-Based Dead Reckoning System With Different Configurations for Wheeled Robots [[paper](https://arxiv.org/abs/2012.10593)][[code](https://github.com/i2Nav-WHU/Wheel-INS)]
