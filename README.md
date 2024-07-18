@@ -3,11 +3,13 @@
 
 ## 📝 Introduction
 
+Wheel-based SLAM, often combined with sensors like cameras, IMUs, and LiDAR, offers robust localization and mapping by leveraging the precise motion estimation from wheel odometry, enhancing accuracy and reliability in various robotic applications.
+
+
 This is a curated list of resources relevant to wheel-based SLAM. I will keep updating this website from time to time. If this project is helpful for your research, please give me a star and fork, thanks!
 **If your work about wheel-based SLAM is accepted to top conferences or transactions, welcome to propose a issue and remind me of updating your work!**
 
 
-Wheel-based SLAM, often combined with sensors like cameras, IMUs, and LiDAR, offers robust localization and mapping by leveraging the precise motion estimation from wheel odometry, enhancing accuracy and reliability in various robotic applications.
 
 ## 🔥 Projects
 
