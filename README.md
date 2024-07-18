@@ -12,7 +12,7 @@ Wheel-based SLAM, often combined with sensors like cameras, IMUs, and LiDAR, off
 ## 🔥 Projects
 
 
-- **[ICRA2024] Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases** [[**paper**](https://arxiv.org/abs/2402.14308)][[**code**](https://github.com/SJTU-ViSYS/Ground-Fusion)]
+- **[ICRA2024] Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases** (Reccommended) [[**paper**](https://arxiv.org/abs/2402.14308)][[**code**](https://github.com/SJTU-ViSYS/Ground-Fusion)]
 
 
 - [ICRA2023] PIEKF-VIWO: Visual-inertial-wheel odometry using partial invariant extended Kalman filter [[paper](https://arxiv.org/pdf/2303.07668)]
@@ -24,7 +24,7 @@ Wheel-based SLAM, often combined with sensors like cameras, IMUs, and LiDAR, off
 - [TIV2022] Structural Lines Aided Monocular Visual-Inertial-Wheel Odometry With Online IMU-Wheel Extrinsic Optimization on S2 Manifold [[paper](https://ieeexplore.ieee.org/abstract/document/10214115)]
 
 
-- [RAL2022] Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU [[paper](https://arxiv.org/abs/2211.03174)][[code](https://github.com/i2Nav-WHU/Wheel-SLAM)]
+- [RAL2022] Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU (Reccommended) [[paper](https://arxiv.org/abs/2211.03174)][[code](https://github.com/i2Nav-WHU/Wheel-SLAM)]
 
 
 
@@ -44,10 +44,10 @@ Wheel-based SLAM, often combined with sensors like cameras, IMUs, and LiDAR, off
 - [Remote Sensing2019] DRE-SLAM: Dynamic RGB-D Encoder SLAM for a Differential-Drive Robot [[paper](https://www.mdpi.com/2072-4292/11/4/380?ref=https://coder.social)[code](https://github.com/ydsf16/dre_slam)]
 
 
-- [ICRA2017] VINS on wheels [[paper](https://ieeexplore.ieee.org/abstract/document/7989603)]
+- [ICRA2017] VINS on wheels (Reccommended) [[paper](https://ieeexplore.ieee.org/abstract/document/7989603)]
 
 
-- [ACC2017] Gyro-aided camera-odometer online calibration and localization [[paper](https://drive.google.com/file/d/1pOLWp2WfqanO8CFin-Ppwl0FQku0-PJX/view)][[code](https://github.com/image-amazing/Wheel_Encoder_aided_vo)]
+- [ACC2017] Gyro-aided camera-odometer online calibration and localization (Reccommended) [[paper](https://drive.google.com/file/d/1pOLWp2WfqanO8CFin-Ppwl0FQku0-PJX/view)][[code](https://github.com/image-amazing/Wheel_Encoder_aided_vo)]
 
 
 
