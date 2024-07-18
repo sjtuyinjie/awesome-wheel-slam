@@ -12,7 +12,7 @@ Wheel-based SLAM, often combined with sensors like cameras, IMUs, and LiDAR, off
 ## 🔥 Projects
 
 
-- **(Reccommended)[ICRA2024] Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**  [[**paper**](https://arxiv.org/abs/2402.14308)][[**code**](https://github.com/SJTU-ViSYS/Ground-Fusion)]
+- **⭐️[ICRA2024] Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**  [[**paper**](https://arxiv.org/abs/2402.14308)][[**code**](https://github.com/SJTU-ViSYS/Ground-Fusion)]
 
 
 - [ICRA2023] PIEKF-VIWO: Visual-inertial-wheel odometry using partial invariant extended Kalman filter [[paper](https://arxiv.org/pdf/2303.07668)]
@@ -24,7 +24,7 @@ Wheel-based SLAM, often combined with sensors like cameras, IMUs, and LiDAR, off
 - [TIV2022] Structural Lines Aided Monocular Visual-Inertial-Wheel Odometry With Online IMU-Wheel Extrinsic Optimization on S2 Manifold [[paper](https://ieeexplore.ieee.org/abstract/document/10214115)]
 
 
-- (Reccommended) [RAL2022] Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU [[paper](https://arxiv.org/abs/2211.03174)][[code](https://github.com/i2Nav-WHU/Wheel-SLAM)]
+- ⭐️[RAL2022] Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU [[paper](https://arxiv.org/abs/2211.03174)][[code](https://github.com/i2Nav-WHU/Wheel-SLAM)]
 
 
 
@@ -47,11 +47,11 @@ Wheel-based SLAM, often combined with sensors like cameras, IMUs, and LiDAR, off
 - [ICRA2017] VINS on wheels (Reccommended) [[paper](https://ieeexplore.ieee.org/abstract/document/7989603)]
 
 
-- (Reccommended) [ACC2017] Gyro-aided camera-odometer online calibration and localization [[paper](https://drive.google.com/file/d/1pOLWp2WfqanO8CFin-Ppwl0FQku0-PJX/view)][[code](https://github.com/image-amazing/Wheel_Encoder_aided_vo)]
+- ⭐️[ACC2017] Gyro-aided camera-odometer online calibration and localization [[paper](https://drive.google.com/file/d/1pOLWp2WfqanO8CFin-Ppwl0FQku0-PJX/view)][[code](https://github.com/image-amazing/Wheel_Encoder_aided_vo)]
 
 
 
--  (Reccommended)[Github] An visual-inertial-wheel fusion odometry [[paper](https://github.com/TouchDeeper/VIW-Fusion/blob/master/Thesis%20-%20TingdaZhuang%20-%20Chinese%20-%20Research%20on%20Multi-sensor%20Fusion%20Localization%20of%20Mobile%20Robot%20Based%20on%20ROS.pdf)][[code](https://github.com/TouchDeeper/VIW-Fusion)]
+- ⭐️[Github] An visual-inertial-wheel fusion odometry [[paper](https://github.com/TouchDeeper/VIW-Fusion/blob/master/Thesis%20-%20TingdaZhuang%20-%20Chinese%20-%20Research%20on%20Multi-sensor%20Fusion%20Localization%20of%20Mobile%20Robot%20Based%20on%20ROS.pdf)][[code](https://github.com/TouchDeeper/VIW-Fusion)]
 
 
 - [Github] Visual-Inertial Odometry Coupled with Wheel Encoder and GNSS [[paper](https://blog.csdn.net/ewtewtewrt/article/details/117249295)][[code](https://github.com/Wallong/VINS-GPS-Wheel)]
