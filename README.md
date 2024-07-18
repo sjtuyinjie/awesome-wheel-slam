@@ -14,7 +14,7 @@ This is a curated list of resources relevant to wheel-based SLAM. I will keep up
 ## 🔥 Projects
 
 
-- **⭐️[ICRA2024] Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**  [[**paper**](https://arxiv.org/abs/2402.14308)][[**code**](https://github.com/SJTU-ViSYS/Ground-Fusion)][[dataset](https://github.com/SJTU-ViSYS/M2DGR-plus)]
+- **⭐️[ICRA2024] Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**  [[**paper**](https://arxiv.org/abs/2402.14308)][[**code**](https://github.com/SJTU-ViSYS/Ground-Fusion)][[**dataset**](https://github.com/SJTU-ViSYS/M2DGR-plus)]
 
 
 - [ICRA2023] PIEKF-VIWO: Visual-inertial-wheel odometry using partial invariant extended Kalman filter [[paper](https://arxiv.org/pdf/2303.07668)]
