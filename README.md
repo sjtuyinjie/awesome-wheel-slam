@@ -1,6 +1,7 @@
 # Awesome Wheel SLAM
 💎 Author: [**Jie Yin 殷杰**](https://github.com/sjtuyinjie)
-
+[![Author](https://img.shields.io/badge/Author-Jie%20Yin-blue)](https://sjtuyinjie.github.io/)
+[![License](https://img.shields.io/badge/License-MIT-cyan)]()
 ## 📝 Introduction
 
 Wheel-based SLAM, often combined with sensors like cameras, IMUs, and LiDAR, offers robust localization and mapping by leveraging the precise motion estimation from wheel odometry, enhancing accuracy and reliability in various robotic applications.
