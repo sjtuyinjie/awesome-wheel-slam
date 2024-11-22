@@ -1,5 +1,6 @@
 # Awesome Wheel SLAM
 💎 Author: [**Jie Yin 殷杰**](https://github.com/sjtuyinjie)
+
 [![Author](https://img.shields.io/badge/Author-Jie%20Yin-blue)](https://sjtuyinjie.github.io/)
 [![License](https://img.shields.io/badge/License-MIT-cyan)]()
 ## 📝 Introduction
