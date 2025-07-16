@@ -16,7 +16,7 @@ This is a curated list of resources relevant to wheel-based SLAM. I will keep up
 
 ## 🔥 Projects
 
-- **⭐️[IROS2025] Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework [[paper](https://arxiv.org/abs/2507.08364)][[code](https://github.com/sjtuyinjie/Ground-Fusion2)][[dataset](https://github.com/sjtuyinjie/M3DGR)]** (A complete solution for SLAM under corner cases, including benchmark datasets and a resilient multi-sensor fusion SLAM framework)
+- **⭐️[IROS2025] Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework [[paper](https://arxiv.org/abs/2507.08364)][[code](https://github.com/sjtuyinjie/Ground-Fusion2)][[dataset](https://github.com/sjtuyinjie/M3DGR)]** (A full-stack solution for SLAM under corner cases, including benchmark datasets and a resilient multi-sensor fusion SLAM framework)
 
 - **⭐️[ICRA2024] Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**  [[**paper**](https://arxiv.org/abs/2402.14308)][[**code**](https://github.com/SJTU-ViSYS/Ground-Fusion)][[**dataset**](https://github.com/SJTU-ViSYS/M2DGR-plus)]
 
